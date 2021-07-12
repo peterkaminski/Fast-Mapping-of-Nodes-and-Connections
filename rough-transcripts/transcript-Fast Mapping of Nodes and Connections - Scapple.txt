@@ -1,0 +1,579 @@
+[Scapple]
+
+[00:00:00]
+
+[rough machine transcription, expect errors]
+
+Hello, this is Peter Kaminski working on visual mapping via tools that let me do nodes and lines, connections and elements.
+
+Something like that.
+
+I wanted to try a couple different tools and see which ones I like, which ones I don't like why I like them.
+
+What features and capabilities I'm looking for in a tool.
+
+The kind of uh mapping I want to do right now is quick brainstorming and mapping of knowledge space without too much thinking beforehand.
+
+So this is extemporaneous mapping.
+
+Ah not unlike um taking notes in a meeting or just thinking through a topic and starting a report or um some commentary or something like that.
+
+So first up, let's try Scapple, pick a new document and I'll give it a name, naming things right away.
+
+It's important.
+
+Okay.
+
+One of the things I like already is it's got quick instructions here, double click anywhere to create a note and drag notes onto one another to make connections.
+
+So that's kind of good enough to get started.
+
+It's a good reminder as I'm switching tools, uh, what to do.
+
+Uh I've got a preset list of kind of brainstorming list, um about cars, automobiles.
+
+I came up with this list kind of quickly and I tried to do different kinds of things with it to simulate maybe um kind of arbitrary exploration through a space without thinking of all the same kinds of things.
+
+And I hope, I hope this makes a good map and the idea I've got is to continue using this map for each tool.
+
+So let me get started.
+
+Um, um, I realized right away something that I want is a couple different kinds of start points.
+
+So let me add some notes here because I want to, one of the things that I want to make sure that as I'm doing maps, I can have not just one my mind map, that's hierarchical with a center point, but I want a center point that can be multiple center points.
+
+So let me take some quick notes so I can see that.
+
+I got more.
+
+I'll just add some nodes.
+
+I know that I'm not great with Scapple but it's it's my main note taking tool for a number of years and so I'm okay with it.
+
+Um I don't have a lot of patience to learn every fiddly thing of most tools.
+
+So there's a lot of uh interesting capabilities, decent capabilities that Scapple has for taking notes and making a map prettier right now.
+
+I'm not really interested in a pretty map.
+
+What I'm really interested in is capturing concepts quickly and easily.
+
+So one of the things I know that Scapple does well is that lets me uh hit command return and that gives me a set of notes all all at once.
+
+So horse, cat, house, city car, you'll notice that that on city there I hit return instead of option return, command returns.
+
+So you know I've got a little, it's a little clunky having to hit command return and then wondering if it is an option, command and control whatever.
+
+But once you get into it it's it's pretty good.
+
+So these are great items.
+
+Uh One of the things, another thing you'll note when I try to drag, I know sometimes it makes the note bigger instead of moving the notes so this will screw up my alignment later on.
+
+So I'm going to hit undo command C to get rid of that.
+
+Um I think this happens mostly with small notes.
+
+So it's not a big problem.
+
+Anyway, as I move these, you'll notice that this is arranged in a stack.
+
+Um It's called in Scapple.
+
+Um, Scapple has the idea of a couple notes altogether.
+
+Being a group of things, like a bullet list or something like that.
+
+And that's called the stack.
+
+Because I was using option return.
+
+Um, it automatically made a stack, but I can also take a selection of notes.
+
+And do you stack your um, Okay, let me scatter these around horse and house look similar.
+
+So I'm going to put those together.
+
+Cat's going houses, I guess guess.
+
+So.
+
+I'll leave that over there.
+
+Houses go in cities.
+
+That sounds good.
+
+But really, I wanted to start with car.
+
+So let me start with car.
+
+Cars have wheels, um, they have engines or motors, um, wheels, wheels are combined of the actual wheel part and then maybe tires.
+
+So the gesture for connecting things in Scapple is just to drag one on top of the other.
+
+Uh, Scapple keeps track of the direction that you connect something.
+
+So one is primary or secondary.
+
+So, um let me look up how to change this connection type to an arrow.
+
+So it looks like the I think I selected wheel and then wheels.
+
+And so um the first one you select is maybe the child.
+
+Let me try that real quick.
+
+If I make a parent in a child.
+
+Another thing that is really important to be able to do on these is to duplicate them.
+
+Um and offhand, I don't know if you can do that looks, I don't see a way to do a good duplicate, but I can do a copy and paste.
+
+So let me do that and I could paste a couple times if I need to copy paste paste.
+
+Okay.
+
+Another thing I really like and Scapple is the way that it can do alignments.
+
+So I can align vertically and horizontally and I can align edges.
+
+Um for centers.
+
+So in this case I want to maybe align vertical centers, horizontal centers.
+
+Sorry And then I moving moving one of those means I moved both of them.
+
+These are reasonably well aligned.
+
+These are not so aligned centers for those two.
+
+And then I'm gonna line vertical centers on these.
+
+Another thing that Scapple is really good at is distribute horizontally.
+
+So now there's an even number of space or even space between those.
+
+Anyway um Let's try an experiment here, connect parent or child to parent and parent to child.
+
+Um And then do that thing where I did connect with arrow and connect with their uh so the dash line connection didn't matter.
+
+I think what the the arrow is probably going to go in the in the direction of selection.
+
+So 1st selected.
+
+2nd selected.
+
+There you go.
+
+Um, I'm going to disconnect this and reconnect it with just our standard dashed line, which is super fast.
+
+Okay, wheels have wheels and tires.
+
+These things are getting a little bit close to for me, You know, this, that stack moved altogether, which is fine.
+
+But let me try to move a little bit separately.
+
+So engines have engine blocks and cylinders and spark plugs.
+
+I'm reading this off, but that's about the same as thinking, just thinking, I made a mistake there.
+
+The cylinders didn't hit the target quite so I'm going to do community and then we do that in that time.
+
+It connected just fine.
+
+Okay, so spark plugs, Let's think about spark plugs for a little bit, spark plugs are a thing that use electricity to ignite vapor.
+
+Um, paper is a state of manner.
+
+So let me write down states of matter.
+
+So if I, if I end up labeling this connection would be something like, remind me of or have a relationship.
+
+Um, so vapor is, well, let's look up vapor.
+
+I cheated and looked this up before.
+
+So let's copy a long note in.
+
+We need to make some more space.
+
+I don't want that bullet states of matter, paperwork prefers to have gas phase liquid solid.
+
+So states of matter include solid square gas.
+
+And then I can say vapor is a gas phase.
+
+So this isn't the connection I want.
+
+This is a connection I want except maybe I really want to say there's vapor, which is a phase of gas.
+
+And then really I want to connect this.
+
+Let's see if we connect it here and then disconnected here.
+
+That's great.
+
+Okay, so now this is making a mess of my space here.
+
+Maybe I'll just tolerate that for a while.
+
+Uh, so use electricity to ignite vapor.
+
+I kind of forgot where that goes, but it's pretty easy for me to find.
+
+Oh yeah, it goes to spark plugs.
+
+Mm Now I can see that maybe I would decompose this statement a little bit like a concept map.
+
+So let me try that real quick.
+
+Um, so the components, the now ones in here are electricity and vapor.
+
+Uh, so let me cut this, paste it here, cut this.
+
+Um, and we're going to try a new thing.
+
+We're going to label this connection here.
+
+Yeah.
+
+Connection labeling and Scapple means it works by selecting two notes and then editing the connection label and I can just paste used in there from my previous previous wording here.
+
+And vapor is now redundant because I have that already.
+
+Uh let me change this into a nice verb and then delete this.
+
+Hopefully that note isn't sticking around.
+
+That's good.
+
+So let me connect these and label these two lovely.
+
+Um, okay, so back up the chain.
+
+Two engines.
+
+Anything else about engines? No, How about motors? Motors have batteries or motors are connected to batteries, batteries.
+
+Supply energy to motors.
+
+Let's say that.
+
+I don't want to say supplies energy to because that's kind of too long.
+
+So, I'm just going to say energizes, which hopefully is good enough.
+
+Cars have, let me start connecting.
+
+These cars have wheels.
+
+An engine or motor.
+
+Um, I wish I could say we're one or the other here.
+
+That's not gonna be super easy.
+
+Mm in my map.
+
+So, I guess I'll just leave it for now.
+
+Cars have transmissions.
+
+Let's do something a little bit differently.
+
+Um, I can say from car, I can say new connected note transmission and let's see how that that worked worked okay.
+
+Um just it's easy to do this, I think double click and create anyone.
+
+Cars and drivers drivers use steering wheels.
+
+Um I want to make sure I remember that drivers use steering wheels, so let's do this real.
+
+Maybe it should be singular.
+
+Okay.
+
+Along with the driver, there's passengers.
+
+Car is a kind of a vehicle.
+
+Mhm.
+
+So this is a superset to car.
+
+Um None of these are vehicles, but another kind of vehicle could be a truck or a boat for ship or a bicycle.
+
+Ships and boats have a relationship.
+
+Mhm.
+
+I'm going to call this.
+
+Maybe float on water, truck and boat and ship and bicycle on all vehicles along with car.
+
+one thing to note here is this, this only moves that node, which is fine.
+
+The lions all radiate towards the center, which is fine for my purposes here.
+
+Um I know that I can multi select these and move them all together.
+
+That doesn't move children which is fine.
+
+I don't know.
+
+I wonder if I can select children.
+
+I don't think I can but Uh huh.
+
+There you go.
+
+Select connected.
+
+No, it's awesome.
+
+I can do command click to de select that one.
+
+Uh And then I wonder if I can do that double down on that.
+
+Select connected notes.
+
+Yeah, let's try that again.
+
+It's a car.
+
+This connected clusters do uh changed chases them all out, but it didn't select these.
+
+So that's a fair thing.
+
+Now I can move all those together.
+
+That was pretty handy.
+
+It's pretty easy to let's try to go select connected clusters.
+
+So everything connected to car or connected to something that's connected.
+
+Um If I hold last time I what I did is I clicked and right away everything D.
+
+Selected.
+
+But if I hold command, yep didn't work, wow okay, you can also select these by space.
+
+I guess I can't de select that way.
+
+Um let's go back to my cars.
+
+Also have body and headlights and tail lights.
+
+Keep track of the connection between these.
+
+Even the type of light and foot on water is a different kind of connection.
+
+Cars have paint, cars have painter, does the body out paint? Uh huh.
+
+Let's say that the body has paid cars are also known as automobile and I'm gonna connect that and label this connection aka Automobile is okay, you know I kind of looked these up before so I'm going to copy and paste those.
+
+I'm copying a little bit more than I want here I guess.
+
+That's okay.
+
+It's the most horrible thing you try to be a little bit more parsimonious with my selection I think it's not gonna work and it didn't, which is still more or less.
+
+Okay.
+
+Um right away I'm kind of drawn.
+
+I could decompose each of these a little bit.
+
+Uh This is obviously greek and this is obviously french and latin.
+
+So those would be good things to break out.
+
+Um These are words or parts of words so I might I might note that too, but so far I'm good enough there care.
+
+Um I really don't like that.
+
+These are not connected to anything.
+
+Um I do however like that they are separate mind maps.
+
+They're not a mind map with a center.
+
+So Uh huh let's do some connecting of these.
+
+Um and they'll say cat is and horses, the kind of animal and houses are in cities connection level in.
+
+Okay so this is a fairly decent map.
+
+I'm pretty happy with it.
+
+Um I like that.
+
+I can distribute these around make this make these look pretty the way I want to.
+
+This is.
+
+Uh huh.
+
+So I've got good control over um distribution things like that we saw before that if I wanted to I could these are already aligned but I could align them differently if I want to and I can distribute them if I wanted.
+
+Mhm.
+
+Horizontal wasn't what I was looking for there.
+
+You should be distributed vertically.
+
+Very nice maybe aligned on centers.
+
+Um Let me make some let's make some boxes maybe.
+
+So I know that's a shape, two background shape.
+
+Nice box.
+
+That's great.
+
+Move this here, make it smaller so I can drag things inside.
+
+That's cool.
+
+And then they're not a ship.
+
+Mhm.
+
+Although it said something the shape said make a new shape.
+
+That's my my tip dragnets inside.
+
+And then it was something about option click together.
+
+It's true, yep, that worked.
+
+Um So this is a good way to make a call out.
+
+I wonder if this, if I can make a new shape around those, but it's easy enough to make a shape and then select these.
+
+Mhm.
+
+Can't quite do the option click thing, but that's okay.
+
+I also use these background shapes to make little notes or legends.
+
+Uh So what I'm trying to do is just type I guess.
+
+Mm hmm.
+
+I thought these were text boxes, but I guess they're just shapes, which is fine.
+
+Cars diagramming, option return again by Peter Kaminski Version 2021 7.
+
+You can use alignment to make these better, although I guess maybe you have to do this too.
+
+Makes it a little bit.
+
+So maybe alignments distribute vertically alliance left edges.
+
+Looks pretty good groups.
+
+Yeah.
+
+Uh, we haven't looked at it too much yet, but there's a whole whole thing about styling notes that we could do.
+
+Let's play with styling a little bit.
+
+Option click.
+
+Just sucked all of those put down here.
+
+Mm hmm.
+
+So I think that's really cool is I can choose different, different types of notes from a palette.
+
+Kind of I could also change the border and the border shape.
+
+Make this a lot a lot different.
+
+And I can easily get back to just make it look normal for me.
+
+Um, I can do that for a number of um, notes at once to so perhaps I would want to do something like select connected.
+
+Uh, and then apply border change to each of these and maybe make the bigger font looks like it's not in here.
+
+So I also know that I can do inspector with option command.
+
+I so let me make the fun bigger on all of these and then it's that car and make the font even bigger on that.
+
+I can also do things command minus and command plus works too.
+
+I don't like that.
+
+The border is the same on all of these.
+
+So let me do that connected trick again real quick.
+
+It's lacked connected.
+
+We're thin and border big.
+
+The note that I can do this either in the inspector or with the menu.
+
+I can do things like I can save these note styles.
+
+Also let me pick a change this around something maybe kind of ugly but different.
+
+Okay mm Yeah.
+
+Cloud shape here is pretty ugly but I guess it's different at least another thing is I can't change the size of the note.
+
+I can't make it bigger vertically.
+
+I can make it bigger horizontally.
+
+Or I can put more text in here which is okay and change the alignment but only the horizontal alignment, not the vertical alignment.
+
+So the way I've got it vertically aligned right now it's just with blank lines.
+
+Uh So now I can save this as a note style.
+
+Not quite in here.
+
+Try it up here.
+
+New note style from selection.
+
+That's what I want.
+
+Uh ugly style.
+
+You have a full set of what you want to include as the template style there.
+
+So now I've got a new style called ugly.
+
+Let me pick some poor note and make it this ugly style, apply a note style, ugly stuff, lovely.
+
+I will undo that.
+
+Get it back.
+
+Okay that's pretty good.
+
+Tour of Scapple's features and creating a couple different diagrams and some ways that I can add some structure and maybe not flair.
+
+It's not super attractive but differences at least in the way that this works.
+
+And I felt like that was fast and determine the determinative.
+
+I was able to do the things that I wanted to do and it was deterministic.
+
+Easy to undo.
+
+I don't have multiple undo steps, but um, I didn't get too far deep into problems.
+
+So okay, without I know that I can export this as a PNG or Pdf, I can also export it as a text or RTF, OPML, I don't think that it preserves the structure in those formats.
+
+Um, so not great export exporting the data as data, but at least I could export nodes and text or OPML and then suck that into something else and structure it there.
+
+So there you go.
+
+That's Scapple.

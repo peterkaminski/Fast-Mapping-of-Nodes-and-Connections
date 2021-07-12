@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScappleDocument Version="1.2" ID="D73CB080-7B57-4BA7-A80D-41736392E9D3">
+    <Notes>
+        <Note ID="0" FontSize="12.0" Position="940.0,526.0" Width="49.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Horse</String>
+            <ConnectedNoteIDs>47</ConnectedNoteIDs>
+        </Note>
+        <Note ID="1" FontSize="12.0" Position="851.0,513.0" Width="35.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Cat</String>
+            <ConnectedNoteIDs>47</ConnectedNoteIDs>
+        </Note>
+        <Note ID="2" FontSize="12.0" Position="225.0,106.0" Width="51.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>House</String>
+            <ConnectedNoteIDs>3</ConnectedNoteIDs>
+        </Note>
+        <Note ID="3" FontSize="12.0" Position="124.0,76.0" Width="37.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>City</String>
+            <ConnectedNoteIDs>2</ConnectedNoteIDs>
+        </Note>
+        <Note ID="4" FontSize="25.35034" Position="386.0,279.0" Width="57.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="3"></Border>
+            </Appearance>
+            <String>Car</String>
+            <ConnectedNoteIDs>5-7, 28-29, 31-32, 38-40, 43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="5" FontSize="13.856997" Position="583.0,229.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Wheels</String>
+            <ConnectedNoteIDs>4, 8-9</ConnectedNoteIDs>
+        </Note>
+        <Note ID="6" FontSize="13.856997" Position="534.0,311.0" Width="60.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Engine</String>
+            <ConnectedNoteIDs>4, 16-18</ConnectedNoteIDs>
+        </Note>
+        <Note ID="7" FontSize="13.856997" Position="564.0,437.0" Width="52.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Motor</String>
+            <ConnectedNoteIDs>4, 27</ConnectedNoteIDs>
+        </Note>
+        <Note ID="8" FontSize="12.0" Position="655.0,205.0" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>wheel</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="9" FontSize="12.0" Position="693.0,283.0" Width="33.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>tire</String>
+            <ConnectedNoteIDs>5</ConnectedNoteIDs>
+        </Note>
+        <Note ID="16" FontSize="12.0" Position="644.0,315.0" Width="84.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>engine block</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="17" FontSize="12.0" Position="641.0,349.0" Width="64.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>cylinders</String>
+            <ConnectedNoteIDs>6</ConnectedNoteIDs>
+        </Note>
+        <Note ID="18" FontSize="12.0" Position="628.0,391.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>spark plugs</String>
+            <ConnectedNoteIDs>6, 19</ConnectedNoteIDs>
+        </Note>
+        <Note ID="19" FontSize="12.0" Position="840.0,363.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>electricity</String>
+            <ConnectedNoteIDs>18, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="20" FontSize="12.0" Position="957.0,212.0" Width="99.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>states of matter</String>
+            <ConnectedNoteIDs>22-24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="21" FontSize="12.0" Position="1081.0,444.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Vapor refers to a gas phase at a temperature where the same substance can also exist in the liquid or solid state, below the critical temperature of the substance
+
+</String>
+            <ConnectedNoteIDs>25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="22" FontSize="12.0" Position="1063.0,164.0" Width="41.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>solid</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="23" FontSize="12.0" Position="1079.0,230.0" Width="45.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>liquid</String>
+            <ConnectedNoteIDs>20</ConnectedNoteIDs>
+        </Note>
+        <Note ID="24" FontSize="12.0" Position="1049.0,288.0" Width="36.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>gas</String>
+            <ConnectedNoteIDs>20, 25</ConnectedNoteIDs>
+        </Note>
+        <Note ID="25" FontSize="12.0" Position="987.0,351.0" Width="90.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>vapor</String>
+            <ConnectedNoteIDs>19, 21, 24</ConnectedNoteIDs>
+        </Note>
+        <Note ID="27" FontSize="12.0" Position="691.0,490.0" Width="63.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>batteries</String>
+            <ConnectedNoteIDs>7</ConnectedNoteIDs>
+        </Note>
+        <Note ID="28" FontSize="13.856997" Position="472.0,544.0" Width="98.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Transmission</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="29" FontSize="13.856997" Position="343.0,447.0" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Driver</String>
+            <ConnectedNoteIDs>4, 30</ConnectedNoteIDs>
+        </Note>
+        <Note ID="30" FontSize="12.0" Position="208.0,509.0" Width="96.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Steering wheel</String>
+            <ConnectedNoteIDs>29</ConnectedNoteIDs>
+        </Note>
+        <Note ID="31" FontSize="13.856997" Position="268.0,366.0" Width="90.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Passengers</String>
+            <ConnectedNoteIDs>4</ConnectedNoteIDs>
+        </Note>
+        <Note ID="32" FontSize="13.856997" Position="380.0,135.0" Width="61.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Vehicle</String>
+            <ConnectedNoteIDs>4, 33-36</ConnectedNoteIDs>
+        </Note>
+        <Note ID="33" FontSize="12.0" Position="469.0,66.0" Width="46.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Truck</String>
+            <ConnectedNoteIDs>32</ConnectedNoteIDs>
+        </Note>
+        <Note ID="34" FontSize="12.0" Position="472.0,105.0" Width="41.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Boat</String>
+            <ConnectedNoteIDs>32, 37</ConnectedNoteIDs>
+        </Note>
+        <Note ID="35" FontSize="12.0" Position="472.0,144.0" Width="41.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ship</String>
+            <ConnectedNoteIDs>32, 37</ConnectedNoteIDs>
+        </Note>
+        <Note ID="36" FontSize="12.0" Position="465.0,183.0" Width="55.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Bicycle</String>
+            <ConnectedNoteIDs>32</ConnectedNoteIDs>
+        </Note>
+        <Note ID="37" FontSize="12.0" Position="548.0,135.0" Width="89.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>float on water</String>
+            <ConnectedNoteIDs>34-35</ConnectedNoteIDs>
+        </Note>
+        <Note ID="38" FontSize="13.856997" Position="261.0,316.0" Width="48.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Body</String>
+            <ConnectedNoteIDs>4, 42</ConnectedNoteIDs>
+        </Note>
+        <Note ID="39" FontSize="13.856997" Position="262.0,207.0" Width="75.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Headlight</String>
+            <ConnectedNoteIDs>4, 41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="40" FontSize="13.856997" Position="214.0,262.0" Width="67.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Tail light</String>
+            <ConnectedNoteIDs>4, 41</ConnectedNoteIDs>
+        </Note>
+        <Note ID="41" FontSize="12.0" Position="147.0,224.0" Width="78.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>type of light</String>
+            <ConnectedNoteIDs>39-40</ConnectedNoteIDs>
+        </Note>
+        <Note ID="42" FontSize="12.0" Position="195.0,335.0" Width="44.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Paint</String>
+            <ConnectedNoteIDs>38</ConnectedNoteIDs>
+        </Note>
+        <Note ID="43" FontSize="13.856997" Position="706.0,94.0" Width="86.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <String>Automobile</String>
+            <ConnectedNoteIDs>4, 44-46</ConnectedNoteIDs>
+        </Note>
+        <Note ID="44" FontSize="12.0" Position="797.0,46.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Ancient Greek αὐτός (autós, “self”)</String>
+            <ConnectedNoteIDs>43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="45" FontSize="12.0" Position="839.0,94.0" Width="200.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>French mobile (“moving”), from Latin mōbilis</String>
+            <ConnectedNoteIDs>43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="46" FontSize="12.0" Position="780.0,151.0" Width="166.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>powered by an engine rather than pulled by horses</String>
+            <ConnectedNoteIDs>43</ConnectedNoteIDs>
+        </Note>
+        <Note ID="47" FontSize="12.0" Position="893.0,478.0" Width="53.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Animal</String>
+            <ConnectedNoteIDs>0-1</ConnectedNoteIDs>
+        </Note>
+        <Note ID="55" FontSize="15.0" Position="160.0,583.0" Width="142.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>Cars Diagramming</String>
+            <ConnectedNoteIDs>51</ConnectedNoteIDs>
+        </Note>
+        <Note ID="56" FontSize="14.0" Position="160.0,609.0" Width="129.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>by Peter Kaminski</String>
+        </Note>
+        <Note ID="57" FontSize="12.0" Position="160.0,633.0" Width="108.0">
+            <Appearance>
+                <Alignment>Left</Alignment>
+            </Appearance>
+            <String>v2021-07-10-003</String>
+        </Note>
+    </Notes>
+    <BackgroundShapes>
+        <Shape ID="48" Sticky="No" Position="829.0,453.0" Width="191.0" Height="125.305542">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="50" Sticky="No" Position="79.0,46.0" Width="257.441528" Height="118.057938">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+        </Shape>
+        <Shape ID="51" Sticky="No" Position="157.0,579.0" Width="151.106995" Height="85.915604">
+            <Appearance>
+                <Border Weight="1"></Border>
+            </Appearance>
+            <ConnectedNoteIDs>55</ConnectedNoteIDs>
+        </Shape>
+    </BackgroundShapes>
+    <Labels>
+        <Label IDs="4,43">aka</Label>
+        <Label IDs="7,27">energizes</Label>
+        <Label IDs="29,30">uses</Label>
+        <Label IDs="19,25"> ignites</Label>
+        <Label IDs="2,3">in</Label>
+        <Label IDs="18,19">use</Label>
+    </Labels>
+    <AutoFit>0-9, 16-20, 22-24, 27-43, 47, 55-57</AutoFit>
+    <NoteStyles>
+        <Style Name="Bubble (Blue)" ID="93072603-8B18-497F-97BB-A5F4B362C776" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.668968 0.810267 0.895084</BorderColor>
+            <FillColor>0.743297 0.900297 0.994538</FillColor>
+        </Style>
+        <Style Name="Bubble (Green)" ID="0B73C487-4433-4B4B-A67F-DE31B2A6AB26" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.669411 0.885244 0.567003</BorderColor>
+            <FillColor>0.74379 0.983605 0.630003</FillColor>
+        </Style>
+        <Style Name="Bubble (Pink)" ID="CCF1E17A-510E-4736-BE84-1A71C6A7B6D8" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+            <FillColor>0.989117 0.814091 0.999474</FillColor>
+        </Style>
+        <Style Name="Bubble (Red)" ID="8A56FE58-2B6B-48B0-A992-9B58835C6E91" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+            <FillColor>0.993942 0.786391 0.795442</FillColor>
+        </Style>
+        <Style Name="Bubble (Yellow)" ID="DE229AA6-B97F-49ED-9D07-704021583A4A" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="No" AffectNoteBody="Yes" AffectFade="No">
+            <BorderThickness>1</BorderThickness>
+            <BorderColor>0.87775 0.828268 0.562122</BorderColor>
+            <FillColor>0.975278 0.920298 0.62458</FillColor>
+        </Style>
+        <Style Name="Red Text" ID="820A5506-4DD2-4EA7-B469-FB625B45D0A6" AffectFontStyle="No" AffectAlignment="No" AffectTextColor="Yes" AffectNoteBody="No" AffectFade="No">
+            <TextColor>0.985948 0.0 0.026951</TextColor>
+        </Style>
+        <Style Name="Title Text" ID="A17EB72B-09BE-4AAC-A1EF-035BCE59FCCF" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="No" AffectNoteBody="No" AffectFade="No">
+            <FontSize>28.0</FontSize>
+            <IsBold>Yes</IsBold>
+        </Style>
+        <Style Name="ugly style" ID="B417CE4D-0A11-42DE-AF9C-6F7A9C6E673A" AffectFontStyle="Yes" AffectAlignment="Yes" AffectTextColor="Yes" AffectNoteBody="Yes" AffectSize="Yes" AffectFade="No" AffectSticky="Yes">
+            <FontSize>16.0</FontSize>
+            <Alignment>Center</Alignment>
+            <TextColor>0.972727 0.630349 0.229073</TextColor>
+            <BorderThickness>2</BorderThickness>
+            <BorderStyle>Cloud</BorderStyle>
+            <BorderColor>0.894548 0.707752 0.715898</BorderColor>
+            <FillColor>0.810936 0.224998 0.074202</FillColor>
+            <Size>99.0,150.0</Size>
+        </Style>
+    </NoteStyles>
+    <UISettings>
+        <BackgroundColor>0.999767 0.98837 0.949907</BackgroundColor>
+        <DefaultFont>Helvetica</DefaultFont>
+        <NoteXPadding>8.0</NoteXPadding>
+    </UISettings>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScappleDocument>

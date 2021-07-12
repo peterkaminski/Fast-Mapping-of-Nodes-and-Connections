@@ -1,0 +1,646 @@
+[Diagrams.net]
+
+[00:34:19]
+
+[rough machine transcription, expect errors]
+
+Okay, let's continue our diagramming experiment.
+
+Now we're going to use Diagrams.net, formerly known as Draw.io I'm going to run the web browser version of this even though I have the desktop app, they're very similar.
+
+one of the things to note is that you've got a variety of storage options.
+
+I think I'm going to distort to my device, but I'll decide later I guess, and let's make sure to name our diagram, the most amazing things.
+
+Amazing.
+
+And cool things about diagrams down many cool things.
+
+Uh It has but it's able to store an image file that has the embedded XML file that recreates the drawing document.
+
+So I really like to choose edible bit map image because then you can distribute to PNG that anybody can load it with Diagrams.net and work on their copy of it.
+
+It's amazing.
+
+So let's do that and I'm okay with that.
+
+Okay, uh Diagrams.net is a full featured diagram editor so we can make all kinds of uh um Visio-like diagrams or Omnigraffle-like diagrams.
+
+Um We're just going to use lines and boxes, so we have a bit of a bit of a decision to make whether we want to use text objects or box objects.
+
+So let's play around a little bit with those and see what the difference is.
+
+I'm going to zoom in a little bit and I think that'll be make this easier to work on.
+
+So what you saw there was me getting mixed up between sizing affordances and line drawing.
+
+Affordances uh it's something that you fight with a little bit on Diagrams.net.
+
+Um It's a good thing, it's got a lot of capabilities, and but then the that the subsequent thing is that you have to work a little bit sometimes around the complexity.
+
+So here we've got a text box, no border.
+
+Um I'm gonna pick a rounded rectangle because it's prettier.
+
+So each of these shapes, or many of these shapes anyway, can have a text um component in the middle.
+
+Uh I think one thing I really like about diagrams that now it's got a simple copy, so that was option D for duplicate rather than copy and paste, you'll see the omni grateful like guidelines popping up when I get close to the centers of something or maybe the edges of something guideline will pop up that I'm close to it.
+
+You'll also see that these things are aligned on the grid by default.
+
+That's kind of a good thing and a bad thing.
+
+Let's see about connecting these now.
+
+So I think one way to connect them uh looks like the X's are connection points as opposed to the circles which are sizing points.
+
+So if I take this connection point and connect it here to one of these connection points good to go.
+
+So that's a nice line.
+
+Um I've got kind of a circuit diagram, the line by default, so I know that I can change that by selecting that as an object and choosing.
+
+Mhm.
+
+Not that one, I guess it's this one.
+
+There are more about arrows I think.
+
+Although there's some cool line types there kind of sad, don't know what happened to my mother.
+
+It is uh I turned off the line part of it makes sense, choose arrow again.
+
+Maybe it's this type.
+
+Yeah, there you go.
+
+These are the different types of lines that I might have in Scapple.
+
+We were using straight lines to curvy lines might be fun, we can keep kind of playing around with that.
+
+Let's see how that continues to feel to us.
+
+Same thing here, it's got connection points and I can connect two things and then move them around, then they look good.
+
+So I think if I needed to I could put I could turn on the line for these and they would turn into boxes of essentially probably the same thing here.
+
+I can turn these off.
+
+This one is transparent by default, this one is filled by default, although I can turn that off.
+
+I think there's a way to change one shape to another shape maybe too, so maybe that we could actually just change one to the other.
+
+Let's stick with text boxes.
+
+Text boxes for now.
+
+So I'll delete this and maybe even these two I think so double click brings up that um object selector texas right at the left there, so that's convenient.
+
+Um Another way to if you select a shape over here, it just instance creates a shape on the on the diagram were you can also drag a shape onto the diagram.
+
+So a couple different ways to insulin she ate objects.
+
+Let's see is double click for now.
+
+I think offhand.
+
+I don't know how to use just the keyboard to make a new shape.
+
+So if I'm typing and hit command return, nothing happens.
+
+The thing I do like is you can create a shape that's connected by clicking these.
+
+Make another shape that's connected arrows.
+
+That's pretty cool by the way this is um a rotate thing which I guess might be useful.
+
+So let's make our shapes from our list.
+
+Um God horse can house cities and cars.
+
+I miss a little bit scapa was really nice being able to hit command return to get new objects super quickly and text but this is not too much slower.
+
+So cars up wheels, wheels have the steel part of the wheel undo works really well and draw I diagram start now I'm going to do another way.
+
+I've create a note sometimes by duplicating one because duplicate is, is a single command key.
+
+Uh, command dear.
+
+The entire cars also have engines for motorists.
+
+Let's start making some lines or so I don't get too lost, I'll connect this to this and to do that.
+
+I guess I've got to maybe select the line.
+
+Type the airline.
+
+Um, let's stick with curvy line.
+
+This is a little bit different than the other curvy line.
+
+This has got two curves by default, I think two break points, um, which is fine.
+
+So drag this one here, drag it to the center.
+
+Actually saying this, you're okay, well, that's kind of useful.
+
+Bad kind of a pain too.
+
+Uh, I need to drag these control points around to get it to and do the right thing.
+
+So let me not do that.
+
+And maybe what I wanted instead was a directional connector.
+
+So a couple ways to get this, the way I usually do it is actually drag it on and then looking for the connection points here and they're not popping up for me.
+
+I think that's connected to the center, Connect This 1 to the centre.
+
+The different highlights are showing you what the connection point is, so that's connected to the center.
+
+That's great.
+
+Um so in contrast to Scapple, it's a little bit more complicated to get the connections going.
+
+The good news about that is that I've got more flexibility.
+
+The bad news is I've got to fight the interface a little bit too, um to get what I want.
+
+So I did a command d to duplicate the lion shape.
+
+So this one is backwards.
+
+That seems bad.
+
+You need to leave that or reverse it.
+
+I'll just reverse it.
+
+Okay, carts on wheels, parents have engines doing command D to duplicate their, This is a place where that's exactly what happened there.
+
+I guess I created a line by dragging from the connection point.
+
+Maybe let's try that again.
+
+Duplicate this.
+
+Drop it on the object to drop this on the object.
+
+So not doing okay.
+
+Let's compare real quick how this looks against Scapple wheels, engine motor.
+
+Uh, if I wanted to, I've got a lot of control over the way this line looks.
+
+So it can either have their hoods on front and back.
+
+Different kinds of arrowheads.
+
+Um, no, this back that way.
+
+Different kinds of lines, dashes and things like maybe I will kill this Sarah had just so we can see a different kind.
+
+I wonder also if I could turn what I can do about this grid, I can turn it on and off.
+
+I wonder.
+
+Okay, let me try alignment to I think the way you do alignment is a range and so I can do the various alignments here, which makes me happy.
+
+They're pictures instead of words.
+
+Which makes a little bit easier to a little bit harder to scan and read quickly.
+
+A little bit easier to understand the difference between horizontal and vertical centering and edges.
+
+It's also got distribute, which I like and let me keep going on some notes.
+
+Okay, transmission.
+
+And duplicate this.
+
+I guess one of the reasons I duplicate these instead of um essentially new ones is because I know that these are the right objects.
+
+So there's lots of different kinds of objects I might have here.
+
+And in a more complicated diagram, um it's it's good to kind of keep duplicating the ones that you've got rather than incensing potentially new kinds uh in a simple diagram like we're doing now, it doesn't matter too much.
+
+Pretty sure there's a way to make a line straight from this guy to that guy, but don't see it offhand.
+
+So we'll keep doing this.
+
+There's a difference between the green highlight and the blue highlight.
+
+I think the green means it's going to a connection point and I don't know why the connection point started showing up, so I'm okay with just connecting to the object for this diagram.
+
+Anyway, go back to the double click thing.
+
+I guess these arrows are so um clicked to connect and clown uh drag to collect.
+
+Okay, so that's what that does nice except now that I've got to wait points in there.
+
+I wonder if that's because I have a default of these.
+
+Let me do that again.
+
+So it's what it's doing is being sticky about the line type, which is kind of nice.
+
+Ah Kind of wish this arrow had clone without connection.
+
+I didn't see that.
+
+So let's make this manual, let's kill this connection If I drag that one thing I do like, let me see if I can find this again.
+
+Um Pretty sure you can select a bunch of the same kinds of objects at once and often maybe I guess I don't see how to do that, but it's pretty, pretty cool capability.
+
+I don't see it off hand.
+
+Okay, well let me pick these lines or I guess maybe let me pick these lines and turn them to dash is the way that we've got it in Scapple just to make the, make it look the same.
+
+Not because dashes are necessarily better.
+
+Um so I'll go here, dashes, turn off the arrows and then I think it will keep going with that line style.
+
+Let's see cars and drivers, passengers, the driver uses the steering wheel, the car has a kind of vehicle, have to say double clicking to get a an object.
+
+This selector is really nice if I had to do lots of different kinds of objects and it's really frustrating to have this extra click whenever you need a um just another text box.
+
+Okay, so what I did, there was clone.
+
+So this is going to change this to be a truck because I wanted a truck anyway and then I want to correct this.
+
+Um I think I can maybe hold down, holding down, option gets me constrained movement and trying shift and control, see if there's a way to have free motion.
+
+Yeah, this is option that lets me move.
+
+Not on the grid kind of cool.
+
+Course I could just turn the good off to Yeah.
+
+Okay, so um trucks or vehicles, cars or vehicles and so are Uh huh.
+
+Trying to clone which I was doing by accident, click to connect and care.
+
+That was a control click.
+
+I thought it was doing without the control before.
+
+Okay.
+
+This could be a boat or the ship.
+
+The greatest.
+
+Finally starting to frustrate me a little bit because mostly because it makes it a little bit harder to see things and there's lots of things popping up so I'm going to turn the grid off.
+
+Um there's a difference or there's a connection between ships and boats and I forget exactly how I design that over there.
+
+So do it take a peak over there this out of the way? I think this electoral, wow, something weird happened here.
+
+I've got an extra node may be here.
+
+Maybe that's a bug.
+
+Maybe maybe it's not.
+
+Ah this electoral I think on Diagrams.net is if you don't have the whole object selected, it doesn't get selected.
+
+So I'm selecting just the line there and you have to select the whole object to get them selected.
+
+So this will select wheels and tires, um scuffles the other way around.
+
+If your selection touches that anything, it'll get selected.
+
+They both work.
+
+You just have to kind of get used to which one and in in both of them you can option click something.
+
+Just select or de select it.
+
+Uh in Diagrams.net these connections are separate objects.
+
+Um in Scapple they're they're not really which just getting bound, there's good things about it and bad things, but so I was, what I was going for here was flips on water, which applies to both boats and ships awesome.
+
+Another thing you note here kind of a little bit constrained by these side panels and I could turn them off, I guess at least some of them.
+
+Another thing is that Diagrams.net has a page conceit, so amusing.
+
+It's flexible about how many pages there are.
+
+So if I put all these things, whoops, if I put all of these things across the page boundary, it'll just make a new page for me, which is great.
+
+But but it's got this hard page size that you have to kind of work with.
+
+Um it's, it's okay to create um you can create custom page sizes.
+
+It's not a problem.
+
+Think custom.
+
+So I've done that before, but it's a little a little clunky sometimes to deal with pages even though I guess you can make sure that you can print well then.
+
+But for this kind of diagram it usually works.
+
+I haven't had a problem getting stuff printed with Scapple and I just don't worry about page size so that's better in a way.
+
+Um I do feel constrained by the page here though, so I guess I want to at least change this to landscape.
+
+Sometimes I've sometimes what I'll do is I'll just make a really large, you know um 100in each way page and then work without the construction.
+
+Another thing I guess I do sometimes is move this to the center of the page so I'm not squeezed over in one corner.
+
+Uh Let me try that real quick to grab.
+
+Senate has good grouping and um grouping.
+
+So I'm grabbing all of that and then moving as the selection that can group all these things.
+
+But then that makes other weird problems.
+
+But if I'm making more complicated, you know, diagram that's not just a map.
+
+Um The grouping is really useful.
+
+You can group um, shapes together to make a super shape than super useful.
+
+Okay, so I was at floats on water and I've got still need bicycle in my vehicles.
+
+Cars have bodies.
+
+So I put body and tail light and headlight above passengers here.
+
+I guess I did all that was kind of fixed my space problem here when we move these out of the way a little bit more.
+
+So cars, everybody remember that bodies have paint and cars have purse of ah headlights.
+
+I really missed the option.
+
+Return to make a new node here.
+
+And what I'm doing here.
+
+When I make, just the line is drag without control, the control key held down and the headlights and tail lights archive type of light.
+
+Um, Body and car connected.
+
+Body and painter connected cars are also known as automobiles.
+
+There's some stuff out of the way.
+
+Looks like this.
+
+Lion didn't quite get connected to bicycle properly.
+
+Okay.
+
+Cars were also known as automobiles and then automobile is a word that's interesting this way.
+
+Okay.
+
+This is even kind of more messier than scarpa was with pasting in the extra junk there, the, the bullets.
+
+Um, let me do shift.
+
+Um, and it also copied over the size, which was different.
+
+So I did shift command V there and that came out better Somehow.
+
+I got an extra line in their lyrics in one month.
+
+Okay, let's compare scuffle and our diagram stand up.
+
+Picture these boxes.
+
+I think probably what I'll do is is this here I'm able to use multiple lines.
+
+I guess I could have used multiple lines in these, I ended up making separate ones.
+
+Um and let's make sure I can change the size of particular lines of text.
+
+Wrong, wrong thing that was zoom, not font size.
+
+Return this back and I don't know how that text got over.
+
+Spell my name.
+
+Right, Okay.
+
+So if I select all this text left justify it.
+
+It's like just this line, make it bigger, suck.
+
+Just make it a little bit bigger.
+
+Pretty good left justify crowds the edge too much here, so there might be a way to fix the padding there.
+
+But yeah, here's the spacing.
+
+It's probably this, I don't know why they would have zero on the left, but okay with them.
+
+The way it turned out, we'll leave city and house together and move forth a cat down here to an animal box.
+
+Make new animal node collect this.
+
+And it looks like I lost some nodes or I didn't didn't do some nodes.
+
+Let me do those real quick.
+
+I changed a little bit.
+
+The note here was um, or the connections here.
+
+We're not quite right the way I left it after after we did Scapple.
+
+So I fixed that.
+
+I'm not on the video and let's also maybe try line labelling real quick.
+
+I think the way that works, maybe I just select the line and then type.
+
+So these have the label in a gray font along the line.
+
+This has regular funds on the line.
+
+Um, kind of accepted of it kind of not.
+
+I like this couple look better, but I could probably change this with some formatting.
+
+Okay, so Engine as an innocent block and then my fonts font color is sticky.
+
+So let me clear that again.
+
+Engine has cylinders and spark plugs trying to concentrate on my nose instead of my font color.
+
+So I guess I need to fix this font color and then somehow it didn't stick.
+
+Okay.
+
+Maybe now it's stuck.
+
+So spread pugs.
+
+I had deconstructed um electricity and ignites and vapor and stuff into these knows.
+
+So I won't go through that process.
+
+I'll just copy what I've got in.
+
+Um, Diggins are Syrians couple.
+
+So I need electricity, paper and gas and states of matter and fall in and liquid.
+
+Somehow I lost this line.
+
+Okay, spark plugs.
+
+Use electricity to ignite paper.
+
+It's really clunky here to have these not be defaulted to great.
+
+But and then I've got to be careful to make sure that things after that are going to have the right colour, but so let's put a box around this one.
+
+This is in front so I can just send it back and then it moves independently of those.
+
+But I could grab all of these and group them.
+
+So No, it's one unit and houses are in cities.
+
+Let's do that.
+
+Yeah, the colors.
+
+Right.
+
+Except that that means if I created the color would be wrong.
+
+Yeah.
+
+Let's make a box around that too.
+
+Send them back.
+
+And this one one other thing here copy that from here.
+
+I'm not quite sure what's happening.
+
+I guess maybe this is the wrong size or something kind of disappears and reappears.
+
+We try again, make sure we got a text box paste into a that's kind of better kind of not.
+
+I think maybe it's better if I do a text box.
+
+I'm not sure that I ever used textbooks before.
+
+It seems safer.
+
+This must be a rich text box.
+
+So I don't want this.
+
+Yeah, better in.
+
+Okay so let me make this little smaller.
+
+one of the problems is I didn't do shift based.
+
+Let me try that.
+
+It's a little better.
+
+Um This is really concerning that the text is outside of the box.
+
+I think that's here, it is here the spacing that might have to do with the fact that there used to be heading in here or something.
+
+I don't know about whatever.
+
+So like this this finally I'm seeing the connection spots again.
+
+I don't know why I haven't been.
+
+Um Let's practice that real quick.
+
+Let me pull it away from the object and connected to their.
+
+So that's nice.
+
+Okay so here is more or less uh our diagram, make sure to save it federal PNG and download Good enough.
+
+I'll say that therapy.
+
+And now as I was explaining before, I could take that PNG, give it to somebody else, they can look at it as a PNG or they can load it in Diagrams.net and edit it just the way I've got it here.
+
+Super cool capability.
+
+So in some I'm able to do diagramming pretty much just as well in Diagrams.net, I stumble over the extra affordances a little bit um if I had to do any more complicated kind of diagramming with different uh different shapes and things like that dad grandson, that would be superb as it was, it kind of um it slows me down a little bit, it's just a little bit clunkier than doing it Scapple.
+
+Um I have to have to note that neither of these diagrams is very cleaned up.
+
+I guess.
+
+I didn't do the boxes here.
+
+Let me do that real quick.
+
+I don't think that Diagrams.net has a It does select.
+
+I think that's just nodes and lines.
+
+So I don't think it has a select connected.
+
+So let me kind of get the sense of I'm just going to stuck these with command select.
+
+I didn't do it.
+
+I want it did it? Somehow I hit the clone instead of select.
+
+Try to be a little bit more careful not clicking the arrows.
+
+Okay, so I could just put up mine around days and make it around in.
+
+Yeah, put a line around car.
+
+Yeah, that was shift commands the which activates one of my other browser.
+
+Perkins.
+
+So clear that.
+
+Um so I want to show command Z because somebody else owns out and Makes the seven line give it a darker line that's surrounded.
+
+Make the text bigger, lot bigger.
+
+And then sixties again I'm pretty sure there's a way to select all the same kinds of objects.
+
+Bet I'm not going to look it up right to make these just a little bit bigger text and somehow the roundness fell off.
+
+So I think I'm going around music even though I select the arrow every time there it looks like I could do myself a favor by zooming in a little bit.
+
+Um Okay so I guess I'm not going around it.
+
+Um Neither of these diagrams is cleaned up very well to make them pretty um They're just did I get the nodes in? Doesn't look kind of right.
+
+I really like these labels on Scapple a lot better than these labels.
+
+But these will do let's look at this PNG and see how it looks.
+
+Uh huh.
+
+So I would need to do some work here to figure out why the the background isn't coming out right, there's something else that goes on here.
+
+Um The the texas pretty fuzzy and now I remember that one of one of the tricks I have when I export to PNG is I'll assume to two 100% that works better.
+
+So I probably need a transparent background.
+
+This is how it saves XML source code for the diagram.
+
+I'm gonna go ahead and try this real quick.
+
+Don't need the pages the diagram, I want a transparent background, clear a copy of my diagram.
+
+I guess we'll put some border around it so the text is better so we figured out the background not gonna worry about it right now.
+
+But I would need to if if I were publishing this and so I exported it so I know that this isn't quite true so I'm going to close this and maybe I can try loading that PNG just just to see that that works.
+
+Yeah, remembers that.
+
+It's it didn't um it didn't lose that, it's got it in the browser memory somehow, not going to play around with it close enough, so that's the Diagrams.net.
+

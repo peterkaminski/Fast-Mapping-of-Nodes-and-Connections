@@ -1,0 +1,180 @@
+[Miro]
+
+[01:28:26]
+
+[rough machine transcription, expect errors]
+
+Okay.
+
+Next up on the diagramming pub crawl is Miro with narrow and maybe the next app wins a call.
+
+I'm not sure that I'll do the whole diagram.
+
+Um, just enough to kind of get a flavor of it.
+
+So let's try a new board in mirror.
+
+Making a diagram like this.
+
+In Miro is a little bit of a misuse of the tool.
+
+I think it's got a lot of capabilities other than just boxing line diagrams.
+
+So I don't know if this is exactly fair, but it's worth a shot.
+
+Okay.
+
+I don't really want template.
+
+So maybe I, we'll just close this and let's make sure that I can make text.
+
+I'm not sure that I can.
+
+Uh, it's just tough.
+
+Okay.
+
+Maybe my computer is crowded.
+
+Maybe my browser's running too slow.
+
+I don't have a lot running on my computer.
+
+Um, The CPU is kind of pig though, so for whatever reason Miro is running slow for me too slow to be useful I think.
+
+But let's try this a little bit more.
+
+Okay, I think I've got a line there each other again.
+
+I don't know if I want a straight line or the arrow gets an arrow.
+
+It's fine, distracted connection line.
+
+That's cool.
+
+So you're telling me if I make a new text box here, I didn't really mean to make a line here.
+
+Actually let me I'll hit escape in the line of go away.
+
+Let me do this from here, drag from here to there.
+
+Pretty sweet.
+
+Okay, try a straight line for the heck of it, dragged it off the text box.
+
+One of the problems I have with marrow is it's connection algorithm for straight lines.
+
+It's it's doing something that's kind of reasonable for text.
+
+It's choosing the nearest connection point on the outside of the text box.
+
+But in my experience, what happens then is that when you have a constellation of nodes around? Another note, that was option B, which was nice.
+
+Let me let me start the real test here how to delete these and start with car trying different uh command keys with enter to see if I can make a new one.
+
+Um I'm going to use option D to make new ones, so cars have wheels.
+
+Okay, that's cool.
+
+Not what I wanted, I wanted to make it the box bigger, but not the Oh, actually that's that's another mirror feature.
+
+Text fills the box.
+
+Yeah.
+
+So theoretically if I want to make this bigger, I would just make it the box bigger.
+
+That is a weird interaction with the length of the text, but I'm not going to think about that too much yet.
+
+So duplicate this.
+
+I've actually got to type in their or select in there to start typing, which it's a little clunky, but not horrible.
+
+Cars have wheels and engines or instead of an engine, they might have a motor that was option dear without the right thing selected.
+
+So I got a bookmark instead of the command to Miro.
+
+Same thing.
+
+Have to select out of this, selected again.
+
+Then community.
+
+So this is just slow enough for me to be frustrated doing this.
+
+It takes a long time to move things.
+
+It takes a little bit of extra time to make new things.
+
+Everything is a little bit slow and it gets me pretty frustrated.
+
+So let's connect these, the Miro.
+
+You can do it.
+
+I wonder if I'm doing something wrong, you know, trace connecting these to the center here.
+
+I guess that's connected to the center.
+
+So, um, this line here is connected to the center is what the interface seems to be telling me.
+
+So that's great and all except that it's not really connected to the center.
+
+So let me try to connect it to the center again.
+
+So I think it is.
+
+Um, and we keep connecting these.
+
+Okay, so the good news here with this connection stuff is that I guess I can read the text, don't know how this one ended up.
+
+Try to resize this and then the front size changes so I don't want that.
+
+I guess it's the same box size as transmission or something like that sell me undo.
+
+You did.
+
+It looks like I got a weird crash or maybe it's just introduction with my, my plug in on command shift.
+
+The Okay, so I'm trying to select car again.
+
+Here we go so that I can connect it to driver.
+
+I'm just waiting.
+
+Okay.
+
+Maybe I'll give up waiting and try that again.
+
+Truck car.
+
+So I'm connecting it to the center, Not to that one.
+
+So centre.
+
+So a couple of problems here is somehow this box is too big and I don't know how to fix it.
+
+So that line connects to the center of the box, but not the center of the word.
+
+Um, this these, this doesn't radiate from the center even though it's connected to the center.
+
+So these arrows are starting to look weird.
+
+You see what happens when I move them around.
+
+So this, this line doesn't connect to the center.
+
+So even though these are on opposite sides of car, they're not connected in the same place.
+
+The whole thing looks dumb.
+
+It's weird that this line jumps from there to there, so I guess this is particularly awkward here.
+
+Um, I guess maybe I'm doing something wrong.
+
+Maybe if I connected these boxes or maybe if I size these boxes better, but I don't know how to size it without changing the font size.
+
+Um, so this this connection, all of this stuff just looks super stupid and I'm going to quit because I don't see this going anyplace good, um Done with marrow for this experiment.
+
+Thanks.
+
